@@ -14,6 +14,6 @@ Based on certain features from the data set – such as anime titles, genres, an
 
 ## Links
 
-[Link to video presentation]()
+[Link to video presentation](https://www.kapwing.com/videos/626b65a836dd650096f85a77)
 
 [Link to final paper](https://github.com/chui15/CSPB4502_project/blob/main/01_AnimeRecommendationSystem_Part4.pdf)
